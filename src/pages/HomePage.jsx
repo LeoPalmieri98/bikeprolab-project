@@ -1,6 +1,6 @@
 function HomePage() {
     return <>
-        <h1>queste home page</h1>
+        <h1>home page</h1>
     </>
 }
 

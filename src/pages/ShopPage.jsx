@@ -1,6 +1,6 @@
 function ShopPage() {
     return <>
-        <h1>Shop pages</h1>
+        <h1>Shop page</h1>
     </>
 }
 
