@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Footer() {
     return <>
         <footer className="bg-dark text-white pt-5 pb-4 mt-5 border-top border-secondary">
@@ -24,7 +26,10 @@ function Footer() {
                         <p className="me-2 text-white-50">
                             ☎️ +39 Coming Soon...
                         </p>
+                        <Link className="text-white-50 text-decoration-none" to="/chisiamo">👥  Chi Siamo</Link>
                     </div>
+
+
 
                     <div className="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
                         <h5 className="text-uppercase text-white">Seguici Su</h5>

@@ -6,7 +6,7 @@ function Navbar() {
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow-sm">
                 <div className="container">
 
-                    <Link className="navbar-brand" href="{{ route('home') }}">
+                    <Link className="navbar-brand" to="/">
                         <img src="/logo.png" alt="BikeProLab" style={{ height: "15px" }} />
                     </Link>
 
