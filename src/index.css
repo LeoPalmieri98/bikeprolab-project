@@ -3,3 +3,12 @@
   padding: 0;
   margin: 0;
 }
+
+.vh-55 {
+  height: 55vh;
+}
+
+
+.text-coral {
+  color: rgb(255, 115, 64);
+}

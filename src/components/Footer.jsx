@@ -9,7 +9,7 @@ function Footer() {
                     <div className="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
                         <h5 className="text-uppercase mb-4 font-weight-bold text-white">BikeProLab</h5>
                         <p className="text-white-50">
-                            Il punto di riferimento per la manutenzione, revisione e personalizzazione delle sospensioni della tua mountain bike. Affidabilità e prestazioni al top.
+                            Uno spazio con un obbiettivo preciso: offrire un servizio di assistenza che non scende a compromessi. Ogni tuning, ogni service, ogni tenuta, ogni goccia d'olio ha un solo scopo: migliorare la tua performance di guida.
                         </p>
                     </div>
 
@@ -26,7 +26,7 @@ function Footer() {
                         <p className="me-2 text-white-50">
                             ☎️ +39 Coming Soon...
                         </p>
-                        <Link className="text-white-50 text-decoration-none" to="/chisiamo">👥  Chi Siamo</Link>
+                        <Link className="text-white-50 text-decoration-none" to="/about">👥  Chi Siamo</Link>
                     </div>
 
 
