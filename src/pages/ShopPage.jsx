@@ -48,6 +48,7 @@ function ShopPage() {
                             <div className="card-body d-flex flex-column">
                                 <h5 className="card-title text-uppercase fw-bold text-warning mb-1">{item.name}</h5>
                                 <p className="card-text text-light opacity-75 small mb-3">{item.brand}</p>
+                                <p className="card-text text-white  small mb-3">{item.category.name}</p>
 
                                 <div className="mt-auto">
                                     <hr className="border-secondary" />

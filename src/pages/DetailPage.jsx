@@ -49,6 +49,9 @@ function DetailPage() {
 
                     <ul className="list-group list-group-flush mb-4">
                         <li className="list-group-item bg-transparent px-0">
+                            <strong>Categoria:</strong> {suspension.category.name}
+                        </li>
+                        <li className="list-group-item bg-transparent px-0">
                             <strong>Misura ruota:</strong> {suspension.wheel}
                         </li>
                         <li className="list-group-item bg-transparent px-0">
